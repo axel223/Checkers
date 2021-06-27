@@ -1,0 +1,9 @@
+package Enum;
+
+public enum Decision {
+    COMPLETED,
+    FAILED_MOVING_INVALID_PIECE,
+    FAILED_INVALID_DESTINATION,
+    ADDITIONAL_MOVE,
+    GAME_ENDED
+}
